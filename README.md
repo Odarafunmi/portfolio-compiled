@@ -1,1 +1,2 @@
 # portfolio-compiled
+# My name is Peculiar and this is my first ever portfolio website that will be hosted online. This website is a compilation of all the projects i have done based on my knowledge on HTML and CSS.
