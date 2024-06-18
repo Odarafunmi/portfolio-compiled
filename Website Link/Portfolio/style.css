@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.banner {
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(Apartment.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.navbar {
+    margin: auto;
+    max-width: 1300px;
+    overflow: auto;
+    padding: 0px, 20px;
+}
+
+.navbar {
+    background: #1f1f1f;
+    color: white;
+    overflow: auto;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.navbar h1 {
+    float: left;
+    padding-top: 10px;
+}
+
+.navbar ul {
+    float: right;
+    list-style: none;
+}
+
+.navbar ul li {
+    float: left;
+}
+
+.navbar ul li a {
+    text-align: center;
+    display: block;
+    padding: 20px;
+}
